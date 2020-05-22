@@ -1,1 +1,2 @@
 print("abdalrahman")
+print ("عمك")
